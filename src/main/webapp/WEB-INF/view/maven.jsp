@@ -9,6 +9,6 @@
 <link rel="stylesheet" href="css/index3.css">
 </head>
 <body>
-	<h1 style="color: blue">Hello Maven!!!</h1>
+	<h1 style="color: yellow">Hello Maven!!!</h1>
 </body>
 </html>
